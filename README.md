@@ -119,6 +119,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://docs.microsandbox.dev/favicon.ico" height="14"/> [Microsandbox](https://github.com/microsandbox/microsandbox)<sup><sup>⭐</sup></sup> - Self-hosted platform for secure execution of AI code. Great for Code Interpreter, Data Analysis, Browser Use.
 - <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server)<sup><sup>⭐</sup></sup> - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
 - <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker](https://github.com/QuantGeekDev/docker-mcp) - An MCP server for Docker operations, enabling seamless container and compose stack management.
+- <img src="https://console.era.eon.io/favicon.ico" height="14"/> [Era](https://era.eon.io) - Spins up fake companies with simulated Salesforce, Zendesk, and Slack instances so agents can be tested against a full software stack over MCP. Free.
 
 <br />
 
